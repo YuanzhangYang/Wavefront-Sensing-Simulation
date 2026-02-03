@@ -85,25 +85,25 @@ All visualizations use:
 - Axes in millimeters
 - Circular mask outside ρ > 1
 
-### Animated Demonstrations (Most Representative GIFs)
+### Animated Demonstrations
 
 These GIFs showcase the dynamic evolution of key aberrations as the Zernike coefficient varies from -2 to +2. They clearly illustrate fringe progression, symmetry changes, and amplitude effects — with defocus highlighted as the primary dynamic example from the paper.
 
-![dynamic_defocus](https://github.com/user-attachments/assets/71deac57-cbd5-49e3-81d0-7dcf2b3d33b3)
+<img src="https://github.com/user-attachments/assets/71deac57-cbd5-49e3-81d0-7dcf2b3d33b3" width="300">
 
 *Defocus: Smooth transition from concave (negative coef) to convex (positive coef) concentric fringes, with increasing curvature.*
 
-![dynamic_hcoma](https://github.com/user-attachments/assets/4a09eb06-e1b4-4e2a-ac10-0c524cc74355)
+<img src="https://github.com/user-attachments/assets/4a09eb06-e1b4-4e2a-ac10-0c524cc74355" width="300">
 
-*Horizontal Coma: Characteristic comet-like asymmetry evolving from subtle to pronounced lobes.*
+*Horizontal Coma: As the absolute value of the aberration coefficient increases, two symmetrical vertical elliptical cores emerge on the left and right sides. The evolution is characterized by a sharp increase in fringe density within these cores. (Vertical Coma follows the same logic, rotated by 90°).*
 
-![dynamic_spherical](https://github.com/user-attachments/assets/62389960-2874-473c-a1a7-63162cacbe40)
+<img src="https://github.com/user-attachments/assets/62389960-2874-473c-a1a7-63162cacbe40" width="300">
 
 *Spherical Aberration: Multiple concentric rings expanding/contracting with coefficient amplitude.*
 
-![dynamic_astig0](https://github.com/user-attachments/assets/67822e3a-668c-4d19-863d-4afeb6bd994a)
- 
-*Astigmatism 0°: Four-fold symmetric cloverleaf patterns rotating and intensifying.*
+<img src="https://github.com/user-attachments/assets/67822e3a-668c-4d19-863d-4afeb6bd994a" width="300">
+
+*Astigmatism 0°: The pattern exhibits hyperbolic characteristics, where the field of view is divided into top, bottom, left, and right quadrants by an X-shape. (Astigmatism 45° follows a similar evolution, equivalent to rotating this pattern by 45°).*
 
 ## Community Impact
 
